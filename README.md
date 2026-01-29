@@ -26,11 +26,12 @@ I enjoy:
 - C++
 - Bash
 - HTML / CSS
+- React
 
 **Tools & Platforms**
 - Home Assistant
 - Docker & Docker Compose
-- Linux (Ubuntu, Fedora)
+- Linux (Ubuntu, Kali, Fedora)
 - Git & GitHub
 - REST APIs
 
