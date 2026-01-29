@@ -70,8 +70,8 @@ I enjoy:
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
+- GitHub: https://github.com/saralray
+- Email: saralassabumrungrat@gmail.com
 
 ---
 
