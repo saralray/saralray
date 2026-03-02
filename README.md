@@ -35,6 +35,7 @@ I enjoy:
 - Linux (Ubuntu, Kali, Fedora)
 - Git & GitHub
 - REST APIs
+- OpenCV
 
 **Other Skills**
 - IoT Automation
