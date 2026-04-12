@@ -1,81 +1,72 @@
-# 👋 Hi, I'm Saral!
+# Hi, I'm Saral
 
-🚀 Student | Developer | Tech Explorer  
-💡 Interested in IoT, Home Assistant, Automation, Web & Linux  
-🐱 Cat person (my cat’s name is Knipex 😼)  
-⏱️ Working time: 13.00 PM - 4.00 AM
+Student, builder, and tech explorer focused on practical software, automation, and Linux-based systems.
 
----
+I like making things that solve real problems, whether that means building smart home workflows, wiring up backend services, or shipping clean web dashboards. I learn best by building, testing, breaking things, and then figuring out how to make them better.
 
-## 🧠 About Me
+## What I Work On
 
-I'm a passionate developer who loves building things that **actually work in real life** —  
-from smart home automation with **Home Assistant**,  
-to backend scripts, Docker setups, and clean web dashboards.
+- Home Assistant automations and smart home tools
+- IoT and hardware-connected projects
+- Web apps and dashboards
+- Dockerized development and deployment workflows
+- Linux system setup, scripting, and services
 
-I enjoy:
-- Solving real-world problems with code  
-- Automating boring stuff ⚙️  
-- Learning new tech by *breaking and fixing things*  
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
-- Python
-- C++
-- Bash
-- HTML / CSS
-- React
 
-**Tools & Platforms**
-- Home Assistant
-- Docker & Docker Compose
-- Linux (Ubuntu, Kali, Fedora)
-- Git & GitHub
-- REST APIs
-- OpenCV
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Other Skills**
-- IoT Automation
-- Systemd / Services
-- Environment-based configs (`.env`)
-- API integrations
-- Server Management
-- CAD Design
+**Tools and Platforms**
 
----
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 📦 Featured Projects
+**Other Areas**
 
-🔹 **Home Assistant Light Controller**  
-> Control & automate smart lights with presets, chaos mode, and web UI
+![IoT Automation](https://img.shields.io/badge/IoT%20Automation-0A66C2?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
+![Server Management](https://img.shields.io/badge/Server%20Management-607D8B?style=for-the-badge)
+![Environment Config](https://img.shields.io/badge/.env%20Config-222222?style=for-the-badge&logo=dotenv&logoColor=white)
+![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
+![CAD Design](https://img.shields.io/badge/CAD%20Design-FF6F00?style=for-the-badge)
 
-🔹 **Launchpad Controller**  
-> MIDI device integration with automation presets
+## Projects I Enjoy Building
 
-🔹 **Dockerized Web Apps**  
-> Admin/User separation, clean routing, and deployment-ready setups
+- Smart home controllers with presets, automation logic, and web interfaces
+- MIDI or device-driven control systems
+- Dockerized apps with clear separation between admin and user flows
+- Utility tools that automate repetitive work
 
-👉 Check my repositories for more cool stuff!
+## Right Now
 
----
+I’m currently learning more about:
 
-## 🌱 Currently Learning
+- advanced Docker and networking
+- Linux automation
+- stronger frontend UI/UX
+- better long-term project structure
 
-- Advanced Docker & Networking  
-- System automation on Linux  
-- Better frontend UI/UX  
-- Scalable project structure
+## A Few Personal Notes
 
----
+- I care a lot about building things that work in real life, not just in demos
+- I enjoy exploring new tools by experimenting hands-on
+- I am absolutely a cat person, and my cat's name is Knipex
 
-## 📫 Contact Me
+## Contact
 
-- GitHub: https://github.com/saralray
+- GitHub: [github.com/saralray](https://github.com/saralray)
 - Email: saralassabumrungrat@gmail.com
 
----
-
-⭐ If you like my work, feel free to star a repo or follow me!
+If you like the kind of work I do, feel free to check out my repositories.
