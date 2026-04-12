@@ -17,6 +17,7 @@ I like making things that solve real problems, whether that means building smart
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,8 +38,8 @@ I like making things that solve real problems, whether that means building smart
 
 ![IoT Automation](https://img.shields.io/badge/IoT%20Automation-0A66C2?style=for-the-badge)
 ![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
+![MIDI](https://img.shields.io/badge/MIDI%20Controllers-6A1B9A?style=for-the-badge)
 ![Server Management](https://img.shields.io/badge/Server%20Management-607D8B?style=for-the-badge)
-![Environment Config](https://img.shields.io/badge/.env%20Config-222222?style=for-the-badge&logo=dotenv&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
 ![CAD Design](https://img.shields.io/badge/CAD%20Design-FF6F00?style=for-the-badge)
 
