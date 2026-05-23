@@ -78,6 +78,6 @@ I’m currently learning more about:
 ## Contact
 
 - GitHub: [github.com/saralray](https://github.com/saralray)
-- Email: saralassabumrungrat@gmail.com
+- Email: saral@saral.work
 
 If you like the kind of work I do, feel free to check out my repositories.
