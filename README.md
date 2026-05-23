@@ -44,12 +44,12 @@ I like making things that solve real problems, whether that means building smart
 
 **Other Areas**
 
-![IoT Automation](https://img.shields.io/badge/IoT%20Automation-0A66C2?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API%20Integration-4CAF50?style=for-the-badge&logo=postman&logoColor=white)
-![MIDI](https://img.shields.io/badge/MIDI%20Controllers-6A1B9A?style=for-the-badge)
-![Server Management](https://img.shields.io/badge/Server%20Management-607D8B?style=for-the-badge)
+![IoT Automation](https://img.shields.io/badge/IoT%20Automation-0A66C2?style=for-the-badge&logo=arduino&logoColor=white)
+![Electrician](https://img.shields.io/badge/Electrical%20Work-FBC02D?style=for-the-badge&logo=lightning&logoColor=black)
+![Server Management](https://img.shields.io/badge/Server%20Management-607D8B?style=for-the-badge&logo=linux&logoColor=white)
 ![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
-![CAD Design](https://img.shields.io/badge/CAD%20Design-FF6F00?style=for-the-badge)
+![CAD/CAM](https://img.shields.io/badge/CAD%2FCAM-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-E53935?style=for-the-badge&logo=prusa&logoColor=white)
 
 ## Projects I Enjoy Building
 
