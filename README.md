@@ -8,7 +8,7 @@ I like making things that solve real problems, whether that means building smart
 
 - Home Assistant automations and smart home tools
 - IoT and hardware-connected projects
-- Web apps and dashboards
+- 3D PrintFarm Web apps and dashboards
 - Dockerized development and deployment workflows
 - Linux system setup, scripting, and services
 
