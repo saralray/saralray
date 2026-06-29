@@ -1,84 +1,146 @@
-# Hi, I'm Saral
 
-Student, builder, and tech explorer focused on practical software, automation, and Linux-based systems.
+<div align="center">
 
-I like making things that solve real problems, whether that means building smart home workflows, wiring up backend services, or shipping clean web dashboards. I learn best by building, testing, breaking things, and then figuring out how to make them better.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:111827,100:1f2937&height=220&section=header&text=Saral%20Assabumrungrat&fontSize=52&fontColor=e5e7eb&animation=fadeIn&fontAlignY=40&desc=Systems%20Builder%20%7C%20Automation%20%7C%20IoT%20Engineering&descAlignY=62&descSize=18&descColor=9ca3af" width="100%" />
 
-## What I Work On
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1100&color=22C55E&center=true&vCenter=true&width=720&lines=Building+real+systems+that+run+in+production.;Home+Assistant+%2F+IoT+%2F+PrintFarm+Automation;Docker+%2F+Linux+%2F+Proxmox+Infrastructure;Python+%7C+C%2B%2B+%7C+JavaScript+%7C+Bash;From+hardware+signals+to+backend+services.)](https://git.io/typing-svg)
 
-- Home Assistant automations and smart home tools
-- IoT and hardware-connected projects
-- 3D PrintFarm Web apps and dashboards
-- Dockerized development and deployment workflows
-- Linux system setup, scripting, and services
+<br/>
 
-## Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=saralray&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b0f14&title_color=22c55e&icon_color=f59e0b&text_color=d1d5db" width="49%" />
 
-**Languages**
+<img src="https://github-readme-streak-stats.demolab.com?user=saralray&theme=dark&hide_border=true&background=0b0f14&stroke=22c55e&ring=f59e0b&fire=ef4444&currStreakNum=e5e7eb&sideNums=d1d5db&dates=6b7280" width="49%" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-**Tools and Platforms**
+---
 
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+## SYSTEM TELEMETRY
 
-**Other Areas**
+<div align="center">
 
-![IoT Automation](https://img.shields.io/badge/IoT%20Automation-0A66C2?style=for-the-badge&logo=arduino&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
-![Server Management](https://img.shields.io/badge/Server%20Management-607D8B?style=for-the-badge&logo=linux&logoColor=white)
-![systemd](https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=systemd&logoColor=white)
-![Electrician](https://img.shields.io/badge/Electrical%20Work-FBC02D?style=for-the-badge&logo=lightning&logoColor=black)
-![CAD/CAM](https://img.shields.io/badge/CAD%2FCAM-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-E53935?style=for-the-badge&logo=prusa&logoColor=white)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saralray&theme=github_dark" width="100%" />
 
-## Projects I Enjoy Building
+</div>
 
-- Smart home controllers with presets, automation logic, and web interfaces
-- MIDI or device-driven control systems
-- Dockerized apps with clear separation between admin and user flows
-- Utility tools that automate repetitive work
+<table width="100%">
+<tr>
 
-## Right Now
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saralray&theme=github_dark" width="100%" />
+</td>
 
-I’m currently learning more about:
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saralray&theme=github_dark" width="100%" />
+</td>
 
-- advanced Docker and networking
-- Linux automation
-- stronger frontend UI/UX
-- better long-term project structure
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saralray&theme=github_dark&utcOffset=7" width="100%" />
+</td>
 
-## A Few Personal Notes
+</tr>
+</table>
 
-- I care a lot about building things that work in real life, not just in demos
-- I enjoy exploring new tools by experimenting hands-on
-- I am absolutely a cat person, and my cat's name is Knipex
+---
 
-## Contact
+## ACTIVITY SIGNALS
 
-- GitHub: [github.com/saralray](https://github.com/saralray)
-- Email: saral@saral.work
+<div align="center">
 
-If you like the kind of work I do, feel free to check out my repositories.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saralray&theme=react-dark&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## ABOUT
+
+Student and systems builder focused on real-world infrastructure, automation, and embedded-connected systems.
+
+Design philosophy: build → test → break → refine → scale.
+
+---
+
+## WHAT I WORK ON
+
+- Home Assistant automation systems  
+- IoT telemetry and device orchestration  
+- 3D PrintFarm control platform (scheduling + monitoring + APIs)  
+- Dockerized backend services  
+- Linux automation and infrastructure systems  
+
+---
+
+## TECH STACK (8 per row)
+
+<div align="center">
+
+<!-- ROW 1 -->
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,html,css&theme=dark" />
+<br/>
+
+<!-- ROW 2 -->
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,docker,kubernetes,linux,nginx&theme=dark" />
+<br/>
+
+<!-- ROW 3 -->
+<img src="https://skillicons.dev/icons?i=git,github,arduino,raspberrypi,opencv,cloudflare,grafana,prometheus&theme=dark" />
+
+</div>
+
+---
+
+## ORGANIZATIONS
+
+### [SatitChulaStemlab](https://github.com/CudStemlab) — STEM Lab Software, Satit Chulalongkorn University
+
+<div align="center">
+
+### 🚀 [Stemlab-Printfarm](https://github.com/CudStemlab/Stemlab-Printfarm)
+
+Docker-based PrintFarm orchestration system  
+Scheduling, device control, monitoring APIs
+
+---
+
+### ⚙️ [Stemlab-Printfarm-Orca-Slicer](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer)
+
+Slicer integration layer for PrintFarm  
+Machine configuration + print pipeline control
+
+</div>
+
+---
+
+## PROJECTS
+
+- PrintFarm orchestration system (multi-device scheduling + control plane)  
+- Smart home automation engine  
+- IoT sensor + actuator networks  
+- Containerized backend infrastructure  
+- Linux automation services  
+
+---
+
+## CURRENT FOCUS
+
+- Scalable PrintFarm architecture  
+- Docker networking & service design  
+- System-level Linux automation  
+- Real-time hardware dashboards  
+- Production reliability & observability  
+
+---
+
+## CONTACT
+
+GitHub: https://github.com/saralray  
+Email: saral@saral.work  
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0b0f14&height=120&section=footer" width="100%" />
+
+</div>
